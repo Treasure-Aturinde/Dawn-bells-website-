@@ -1,9 +1,10 @@
 .body {
     background-color: lightslategray;
-    background-image:url(badge.jpg) ;
+    background-image:url(school.png) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: lighten;
+    text-align: center;
 }
 
 .header {
@@ -27,4 +28,11 @@ h3 {
     font-style: oblique;
     justify-content: center;
     display: flex;
+}
+.list{
+list-style-type: none;
+}
+.name{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
