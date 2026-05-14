@@ -1,0 +1,30 @@
+.body {
+    background-color: lightslategray;
+    background-image:url(badge.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+.name {
+    font-style: inherit;
+}
+
+h1 {
+    font-style: inherit;
+    justify-content: center;
+    display: flex;
+}
+
+h3 {
+    font-style: oblique;
+    justify-content: center;
+    display: flex;
+}
