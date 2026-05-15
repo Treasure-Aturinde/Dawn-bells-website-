@@ -17,5 +17,6 @@ p{
 h1{
     font-size: 30px;
     font-display: swap;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: antiquewhite;
 }
